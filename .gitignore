@@ -1,0 +1,10 @@
+# ROS1 workspace build artifacts
+custom_msgs_ros1_ws/build/
+custom_msgs_ros1_ws/devel/
+custom_msgs_ros1_ws/install/
+custom_msgs_ros1_ws/log/
+
+# ROS2 workspace build artifacts
+custom_msgs_ros2_ws/build/
+custom_msgs_ros2_ws/install/
+custom_msgs_ros2_ws/log/
